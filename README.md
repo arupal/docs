@@ -1,2 +1,2 @@
-# web.io
-This repository will contain a small site about me a and experimental APIs
+This repository will contain a small site and experimental APIs.
+All files within docs folder are accessible through web publicly!!!
